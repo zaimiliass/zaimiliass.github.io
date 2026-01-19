@@ -13,3 +13,4 @@ It uses GitHub Pages with the Jekyll static site generator.
 - [Content Management Systems](/cms/)
 - [Project](/project/)
 - [Contact](/contact/)
+- [Reveal.js Presentation](/presentation/)
